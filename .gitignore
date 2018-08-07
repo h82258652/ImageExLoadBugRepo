@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/JoliEdu/src/JoliEdu.Web.Host/App_Data/Logs/Logs.txt
+/JoliEdu/src/JoliEdu.Web.Host/wwwroot/upload
+/JoliEdu/libs
+/JoliEdu/doc/JoliEdu.Doc/_site.zip
+/JoliEdu/doc/log.txt
